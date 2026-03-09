@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "baoyu-url-to-markdown": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "5ac5dcea80da1fcf8839cb43b2b59e6bf3347c2a61a1efdb44fbb9ea199a4e65"
+    }
+  }
+}

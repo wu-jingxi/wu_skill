@@ -1,0 +1,26 @@
+{
+  "name": "skill_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wu-jingxi/wu_skill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wu-jingxi/wu_skill/issues"
+  },
+  "homepage": "https://github.com/wu-jingxi/wu_skill#readme",
+  "devDependencies": {
+    "@types/jsdom": "^28.0.0",
+    "@types/node": "^25.3.5",
+    "@types/turndown": "^5.0.6"
+  }
+}
